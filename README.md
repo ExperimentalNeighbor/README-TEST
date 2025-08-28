@@ -1,8 +1,8 @@
 <!-- TEMPLATE SOURCE: https://github.com/earthodev/top-readme-templates/blob/main/README-TEMPLATE1.md -->
 <!-- ExperimentalNeighbor/ExperimentalNeighbor -->
 <a name="readme-top"></a>
-[dotnet-shield-url]: https://dotnet.microsoft.com/
-[dotnet-shield]: https://img.shields.io/badge/.NET%209-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+[dotnet-shield]: https://img.shields.io/badge/.NET%209-512BD4?style=for-the-badge&logo=dotnet&logoColor=white
+[dotnet-shield-url]: https://dotnet.microsoft.com
 [![.Net][dotnet-shield]][dotnet-shield-url]
 <!--
 [contributors-shield]: https://img.shields.io/github/contributors/ExperimentalNeighbor/README-TEST.svg?style=for-the-badge
