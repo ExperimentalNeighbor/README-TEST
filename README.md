@@ -15,8 +15,8 @@
 [issues-url]: https://github.com/issues
 
 <!--https://img.shields.io/github/actions/workflow/status/Rx4Byte/Athena/build-assets.yml?style=for-the-badge-->
-[build-status-a-shield]: https://github.com/Rx4Byte/Athena/actions/workflows/build-assets.yml/badge.svg
-[build-status-a-url]: https://github.com/Rx4Byte/Athena/actions/workflows/build-assets.yml
+[build-status-a-shield]: https://github.com/ExperimentalNeighbor/ExperimentalNeighbor/actions/workflows/build-assets.yml/badge.svg
+[build-status-a-url]: https://github.com/ExperimentalNeighbor/ExperimentalNeighbor/actions/workflows/build-assets.yml
 
 <!--https://github.com/Rx4Byte/Athena/actions/workflows/build-assets.yml/badge.svg-->
 [build-status-b-shield]: https://img.shields.io/github/actions/workflow/status/ExperimentalNeighbor/README-TEST/build-assets.yml?style=for-the-badge
