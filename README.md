@@ -1,28 +1,28 @@
 <a name="readme-top"></a>
 
 ### Built With
-- **Platform**  
+- **Platform**: 
   [![windows-shield]][windows-link]
 
-- **Runtime & Language**  
+- **Runtime & Language**: 
   [![dotnet-shield]][dotnet-link]
   [![csharp-shield]][csharp-link]
 
-- **UI & Patterns**  
+- **UI & Patterns**: 
   [![xaml-shield]][xaml-link]
   [![wpf-shield]][wpf-link]
   [![mvvm-shield]][mvvm-link]
 
-- 🐛 **Bug Report**
+- 🐛 **Bug Report**  
   Discovered a problem? Help us fix it by reporting clear details and steps with the **Bug Report** template so we can reproduce and fix it.
 
-- 💡 **Feature Request**
+- 💡 **Feature Request**  
   Got a bright idea? Please fill out the **Feature Request** template.
 
-- 💬 **Suggestion**
+- 💬 **Suggestion**  
   Share feedback and suggestions using the **Enhancement[Enhancement-Url]** template.
 
-- ❓ **Question**
+- ❓ **Question**  
   Ask anything using the **Question** template, and we’ll respond as soon as possible.
 
 
