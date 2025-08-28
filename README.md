@@ -6,7 +6,6 @@ This section should list any major frameworks/libraries used to bootstrap your p
 - **Platform**  
   [![windows-shield]][windows-link]
 
-[![visual-studio-shield]][visual-studio-link]
 - **Runtime & Language**  
   [![dotnet-shield]][dotnet-link]
   [![csharp-shield]][csharp-link]
@@ -15,6 +14,10 @@ This section should list any major frameworks/libraries used to bootstrap your p
   [![xaml-shield]][xaml-link]
   [![wpf-shield]][wpf-link]
   [![mvvm-shield]][mvvm-link]
+
+<p align="center">(
+[![visual-studio-shield]][visual-studio-link]
+)</p>
 
 <p align="right"><a href="#readme-top">back to top</a></p>
 
