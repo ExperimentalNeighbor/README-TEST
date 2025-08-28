@@ -1,7 +1,10 @@
 <!-- TEMPLATE SOURCE: https://github.com/earthodev/top-readme-templates/blob/main/README-TEMPLATE1.md -->
 <!-- ExperimentalNeighbor/ExperimentalNeighbor -->
 <a name="readme-top"></a>
-
+[dotnet-shield-url]: https://dotnet.microsoft.com/
+[dotnet-shield]: https://img.shields.io/badge/.NET%209-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+[![.Net][dotnet-shield]][dotnet-shield-url]
+<!--
 [contributors-shield]: https://img.shields.io/github/contributors/ExperimentalNeighbor/README-TEST.svg?style=for-the-badge
 [contributors-url]: https://github.com/ExperimentalNeighbor/ExperimentalNeighbor/graphs/contributors
 
@@ -16,13 +19,6 @@
 
 [build-status-shield]: https://img.shields.io/github/actions/workflow/status/ExperimentalNeighbor/README-TEST/test-action.yml?style=for-the-badge
 [build-status-url]: https://github.com/ExperimentalNeighbor/README-TEST/actions/workflows/test-action.yml
-
-<!--
-[license-shield]: https://img.shields.io/github/license/ExperimentalNeighbor/ExperimentalNeighbor.svg?style=for-the-badge&cacheSeconds=60
-[license-url]: https://github.com/blob/master/LICENSE.txt
-
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555&cacheSeconds=60
-[linkedin-url]: https://linkedin.com/in/USER
 -->
 
 <!-- PROJECT SHIELDS -->
