@@ -15,8 +15,8 @@
 [issues-url]: https://github.com/issues
 
 <!--https://github.com/Rx4Byte/Athena/actions/workflows/build-assets.yml/badge.svg-->
-[build-status-b-shield]: https://img.shields.io/github/actions/workflow/status/ExperimentalNeighbor/README-TEST/test-action.yml?style=for-the-badge
-[build-status-b-url]: https://github.com/ExperimentalNeighbor/README-TEST/actions/workflows/build-assets.yml
+[build-status-shield]: https://img.shields.io/github/actions/workflow/status/ExperimentalNeighbor/README-TEST/test-action.yml?style=for-the-badge
+[build-status-url]: https://github.com/ExperimentalNeighbor/README-TEST/actions/workflows/build-assets.yml
 <!--
 [license-shield]: https://img.shields.io/github/license/ExperimentalNeighbor/ExperimentalNeighbor.svg?style=for-the-badge&cacheSeconds=60
 [license-url]: https://github.com/blob/master/LICENSE.txt
@@ -30,8 +30,7 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![Build Status][build-status-a-shield]][build-status-a-url]
-[![Build Status][build-status-b-shield]][build-status-b-url]
+[![Build Status][build-status-shield]][build-status-url]
 <!--
 [![MIT License][license-shield]][license-url]
 
