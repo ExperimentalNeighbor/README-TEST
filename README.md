@@ -1,10 +1,9 @@
 <!-- TEMPLATE SOURCE: https://github.com/earthodev/top-readme-templates/blob/main/README-TEMPLATE1.md -->
 <!-- ExperimentalNeighbor/ExperimentalNeighbor -->
 <a name="readme-top"></a>
-[dotnet-shield-url]: https://dotnet.microsoft.com/
-[dotnet-shield]: https://img.shields.io/badge/.NET%209-512BD4?style=for-the-badge&logo=dotnet&logoColor=white
 
-[![.Net][dotnet-shield]][dotnet-shield-url]
+[![.NET][dotnet-shield]][dotnet-shield-url]
+
 <!--
 [contributors-shield]: https://img.shields.io/github/contributors/ExperimentalNeighbor/README-TEST.svg?style=for-the-badge
 [contributors-url]: https://github.com/ExperimentalNeighbor/ExperimentalNeighbor/graphs/contributors
@@ -52,6 +51,9 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
+[dotnet-shield]: https://img.shields.io/badge/.NET%209-512BD4?style=for-the-badge&logo=dotnet&logoColor=white
+[dotnet-shield-url]: https://dotnet.microsoft.com/
 
 [product-screenshot]: images/screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
