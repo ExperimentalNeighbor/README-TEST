@@ -3,14 +3,18 @@
 ### Built With
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+- **Platform**
+  [![windows-shield]][windows-link]
 
-[![windows-shield]][windows-link]
 [![visual-studio-shield]][visual-studio-link]
-[![dotnet-shield]][dotnet-link]
-[![csharp-shield]][csharp-link]
-[![xaml-shield]][xaml-link]
-[![wpf-shield]][wpf-link]
-[![mvvm-shield]][mvvm-link]
+- **Runtime & Language**
+  [![dotnet-shield]][dotnet-link]
+  [![csharp-shield]][csharp-link]
+
+- **UI & Patterns**
+  [![xaml-shield]][xaml-link]
+  [![wpf-shield]][wpf-link]
+  [![mvvm-shield]][mvvm-link]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
