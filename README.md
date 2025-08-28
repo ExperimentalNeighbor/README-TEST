@@ -21,16 +21,16 @@
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
 [product-screenshot]: images/screenshot.png
-[dotnet-shield]: https://img.shields.io/badge/.NET%209-512BD4?style=for-the-badge&logoColor=white
 [made-with-love-shield]: https://img.shields.io/badge/Made%20with-%E2%9D%A4-red?style=for-the-badge
 [contributions-welcome-shield]: https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=for-the-badge
-[windows-shield]: https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white
-[visual-studio-shield]: https://img.shields.io/badge/Visual%20Studio%20-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white
-[wpf-shield]: https://img.shields.io/badge/WPF-6A5ACD?style=for-the-badge&logo=windows&logoColor=white
-[xaml-shield]: https://img.shields.io/badge/XAML-0C54C2?style=for-the-badge&logo=xaml&logoColor=white
-[csharp-shield]: https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white
-[mvvm-shield]: https://img.shields.io/badge/MVVM-FF6F00?style=for-the-badge
 [repo-status-shield]: https://img.shields.io/badge/Status-Active-success?style=for-the-badge
+[dotnet-shield]: https://img.shields.io/badge/.NET%209-512BD4?style=for-the-badge&logoColor=white
+[windows-shield]: https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logoColor=white
+[visual-studio-shield]: https://img.shields.io/badge/Visual%20Studio%20-5C2D91?style=for-the-badge&logoColor=white
+[wpf-shield]: https://img.shields.io/badge/WPF-6A5ACD?style=for-the-badge&logoColor=white
+[xaml-shield]: https://img.shields.io/badge/XAML-0C54C2?style=for-the-badge&logoColor=white
+[csharp-shield]: https://img.shields.io/badge/C%23-239120?style=for-the-badge&logoColor=white
+[mvvm-shield]: https://img.shields.io/badge/MVVM-FF6F00?style=for-the-badge
 
 [dotnet-link]: https://dotnet.microsoft.com/
 [windows-link]: https://support.microsoft.com/en-us/welcometowindows
