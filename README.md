@@ -1,8 +1,6 @@
 <a name="readme-top"></a>
 
 ### Built With
-
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 - **Platform**  
   [![windows-shield]][windows-link]
 
@@ -15,7 +13,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
   [![wpf-shield]][wpf-link]
   [![mvvm-shield]][mvvm-link]
 
-<p align="center">[![visual-studio-shield]][visual-studio-link]</p>
+
 
 <p align="right"><a href="#readme-top">back to top</a></p>
 
