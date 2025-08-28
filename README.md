@@ -13,6 +13,17 @@
   [![wpf-shield]][wpf-link]
   [![mvvm-shield]][mvvm-link]
 
+- 🐛 **Bug Report**
+  Discovered a problem? Help us fix it by reporting clear details and steps with the **Bug Report** template so we can reproduce and fix it.
+
+- 💡 **Feature Request**
+  Got a bright idea? Please fill out the **Feature Request** template.
+
+- 💬 **Suggestion**
+  Share feedback and suggestions using the **Enhancement[Enhancement-Url]** template.
+
+- ❓ **Question**
+  Ask anything using the **Question** template, and we’ll respond as soon as possible.
 
 
 <p align="right"><a href="#readme-top">back to top</a></p>
