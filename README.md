@@ -14,7 +14,6 @@
 [issues-shield]: https://img.shields.io/github/issues/ExperimentalNeighbor/ExperimentalNeighbor.svg?style=for-the-badge
 [issues-url]: https://github.com/issues
 
-<!--https://github.com/Rx4Byte/Athena/actions/workflows/build-assets.yml/badge.svg-->
 [build-status-shield]: https://img.shields.io/github/actions/workflow/status/ExperimentalNeighbor/README-TEST/test-action.yml?style=for-the-badge
 [build-status-url]: https://github.com/ExperimentalNeighbor/README-TEST/actions/workflows/build-assets.yml
 <!--
