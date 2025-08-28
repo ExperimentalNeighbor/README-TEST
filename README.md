@@ -21,7 +21,7 @@
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
 [product-screenshot]: images/screenshot.png
-[dotnet-shield]: https://img.shields.io/badge/%20.NET%209-512BD4?style=for-the-badge&logo=dotnet&logoColor=white
+[dotnet-shield]: https://img.shields.io/badge/.NET%209-512BD4?style=for-the-badge&logoColor=white
 [made-with-love-shield]: https://img.shields.io/badge/Made%20with-%E2%9D%A4-red?style=for-the-badge
 [contributions-welcome-shield]: https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=for-the-badge
 [windows-shield]: https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white
