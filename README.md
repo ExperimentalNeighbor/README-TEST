@@ -1,7 +1,7 @@
 <!-- TEMPLATE SOURCE: https://github.com/earthodev/top-readme-templates/blob/main/README-TEMPLATE1.md -->
 <!-- ExperimentalNeighbor/ExperimentalNeighbor -->
 <a name="readme-top"></a>
-[![.Net][dotnet-shield]](dotnet-shield-url)
+[![.Net][dotnet-shield]]([dotnet-shield-url](https://dotnet.microsoft.com))
 <!--
 [contributors-shield]: https://img.shields.io/github/contributors/ExperimentalNeighbor/README-TEST.svg?style=for-the-badge
 [contributors-url]: https://github.com/ExperimentalNeighbor/ExperimentalNeighbor/graphs/contributors
