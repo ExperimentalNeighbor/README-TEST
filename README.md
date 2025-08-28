@@ -1,40 +1,4 @@
-<!-- TEMPLATE SOURCE: https://github.com/earthodev/top-readme-templates/blob/main/README-TEMPLATE1.md -->
-<!-- ExperimentalNeighbor/ExperimentalNeighbor -->
 <a name="readme-top"></a>
-
-[![.NET][dotnet-shield]][dotnet-shield-url]
-
-<!--
-[contributors-shield]: https://img.shields.io/github/contributors/ExperimentalNeighbor/README-TEST.svg?style=for-the-badge
-[contributors-url]: https://github.com/ExperimentalNeighbor/ExperimentalNeighbor/graphs/contributors
-
-[forks-shield]: https://img.shields.io/github/forks/ExperimentalNeighbor/README-TEST.svg?style=for-the-badge
-[forks-url]: https://github.com/ExperimentalNeighbor/ExperimentalNeighbor/network/members
-
-[stars-shield]: https://img.shields.io/github/stars/ExperimentalNeighbor/README-TEST.svg?style=for-the-badge
-[stars-url]: https://github.com/ExperimentalNeighbor/ExperimentalNeighbor/stargazers
-
-[issues-shield]: https://img.shields.io/github/issues/ExperimentalNeighbor/README-TEST.svg?style=for-the-badge
-[issues-url]: https://github.com/ExperimentalNeighbor/ExperimentalNeighbor/issues
-
-[build-status-shield]: https://img.shields.io/github/actions/workflow/status/ExperimentalNeighbor/README-TEST/test-action.yml?style=for-the-badge
-[build-status-url]: https://github.com/ExperimentalNeighbor/README-TEST/actions/workflows/test-action.yml
--->
-
-<!-- PROJECT SHIELDS -->
-
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![Build Status][build-status-shield]][build-status-url]
-
-<!--
-[![MIT License][license-shield]][license-url]
-
-[![LinkedIn][linkedin-shield]][linkedin-url]
--->
-
 
 ### Built With
 
@@ -54,9 +18,6 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-
-[dotnet-shield]: https://img.shields.io/badge/.NET%209-512BD4?style=for-the-badge&logo=dotnet&logoColor=white
-[dotnet-shield-url]: https://dotnet.microsoft.com/
 
 [product-screenshot]: images/screenshot.png
 [dotnet-shield]: https://img.shields.io/badge/.NET%209-512BD4?style=for-the-badge&logo=dotnet&logoColor=white
