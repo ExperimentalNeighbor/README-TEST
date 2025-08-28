@@ -2,19 +2,19 @@
 <!-- ExperimentalNeighbor/ExperimentalNeighbor -->
 <a name="readme-top"></a>
 
-[contributors-shield]: https://img.shields.io/github/contributors/ExperimentalNeighbor/ExperimentalNeighbor.svg?style=for-the-badge&cacheSeconds=60
+[contributors-shield]: https://img.shields.io/github/contributors/ExperimentalNeighbor/README-TEST.svg?style=for-the-badge
 [contributors-url]: https://github.com/ExperimentalNeighbor/ExperimentalNeighbor/graphs/contributors
 
-[forks-shield]: https://img.shields.io/github/forks/ExperimentalNeighbor/ExperimentalNeighbor.svg?style=for-the-badge&cacheSeconds=60
+[forks-shield]: https://img.shields.io/github/forks/ExperimentalNeighbor/README-TEST.svg?style=for-the-badge
 [forks-url]: https://github.com/ExperimentalNeighbor/ExperimentalNeighbor/network/members
 
-[stars-shield]: https://img.shields.io/github/stars/ExperimentalNeighbor/ExperimentalNeighbor.svg?style=for-the-badge&cacheSeconds=60
+[stars-shield]: https://img.shields.io/github/stars/ExperimentalNeighbor/README-TEST.svg?style=for-the-badge
 [stars-url]: https://github.com/ExperimentalNeighbor/ExperimentalNeighbor/stargazers
 
-[issues-shield]: https://img.shields.io/github/issues/ExperimentalNeighbor/ExperimentalNeighbor.svg?style=for-the-badge&cacheSeconds=60
+[issues-shield]: https://img.shields.io/github/issues/ExperimentalNeighbor/README-TEST.svg?style=for-the-badge
 [issues-url]: https://github.com/ExperimentalNeighbor/ExperimentalNeighbor/issues
 
-[build-status-shield]: https://img.shields.io/github/actions/workflow/status/ExperimentalNeighbor/README-TEST/test-action.yml?style=for-the-badge&cacheSeconds=60
+[build-status-shield]: https://img.shields.io/github/actions/workflow/status/ExperimentalNeighbor/README-TEST/test-action.yml?style=for-the-badge
 [build-status-url]: https://github.com/ExperimentalNeighbor/README-TEST/actions/workflows/test-action.yml
 
 <!--
