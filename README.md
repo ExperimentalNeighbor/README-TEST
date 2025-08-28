@@ -38,14 +38,15 @@
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+<p align="center">
+    [![windows-shield]][windows-link]
+    [![visual-studio-shield]][visual-studio-link]
+    [![dotnet-shield]][dotnet-link]
+    [![csharp-shield]][csharp-link]
+    [![xaml-shield]][xaml-link]
+    [![wpf-shield]][wpf-link]
+    [![mvvm-shield]][mvvm-link]
+</p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -56,19 +57,21 @@ This section should list any major frameworks/libraries used to bootstrap your p
 [dotnet-shield-url]: https://dotnet.microsoft.com/
 
 [product-screenshot]: images/screenshot.png
-[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-[Next-url]: https://nextjs.org/
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-url]: https://reactjs.org/
-[Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
-[Vue-url]: https://vuejs.org/
-[Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
-[Angular-url]: https://angular.io/
-[Svelte.dev]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
-[Svelte-url]: https://svelte.dev/
-[Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
-[Laravel-url]: https://laravel.com
-[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-[Bootstrap-url]: https://getbootstrap.com
-[JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[JQuery-url]: https://jquery.com 
+[dotnet-shield]: https://img.shields.io/badge/.NET%209-512BD4?style=for-the-badge&logo=dotnet&logoColor=white
+[made-with-love-shield]: https://img.shields.io/badge/Made%20with-%E2%9D%A4-red?style=for-the-badge
+[contributions-welcome-shield]: https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=for-the-badge
+[windows-shield]: https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white
+[visual-studio-shield]: https://img.shields.io/badge/Visual%20Studio%20-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white
+[wpf-shield]: https://img.shields.io/badge/WPF-6A5ACD?style=for-the-badge&logo=windows&logoColor=white
+[xaml-shield]: https://img.shields.io/badge/XAML-0C54C2?style=for-the-badge&logo=xaml&logoColor=white
+[csharp-shield]: https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white
+[mvvm-shield]: https://img.shields.io/badge/MVVM-FF6F00?style=for-the-badge
+[repo-status-shield]: https://img.shields.io/badge/Status-Active-success?style=for-the-badge
+
+[dotnet-link]: https://dotnet.microsoft.com/
+[windows-link]: https://support.microsoft.com/en-us/welcometowindows
+[visual-studio-link]: https://visualstudio.microsoft.com/
+[wpf-link]: https://learn.microsoft.com/en-us/dotnet/desktop/wpf/
+[xaml-link]: https://learn.microsoft.com/en-us/dotnet/desktop/wpf/xaml/
+[csharp-link]: https://dotnet.microsoft.com/en-us/languages/csharp
+[mvvm-link]: https://learn.microsoft.com/de-de/dotnet/architecture/maui/mvvm
