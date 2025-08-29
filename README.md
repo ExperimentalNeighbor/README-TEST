@@ -1,7 +1,5 @@
 <a name="readme-top"></a>
 
-# Frequently Asked Questions
-
 <!--  -->
 <details><summary>Is this an example?</summary>
 Yes it is!
