@@ -3,7 +3,7 @@
 # Frequently Asked Questions
 
 <!--  -->
-<details><summary>Is this an example?</summary>
+<details><summary>❓Is this an example?</summary>
 Yes it is!
 </details>
 
